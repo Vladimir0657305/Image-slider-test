@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+}
+
+.img-12-min {
+    width: 64px;
+}
+
+.img-12-max {
+    width: 256px;
+    border: 3px solid #000;
+    margin-left: 75px;
+}
+
+.active-img {
+    border: 3px solid black;
+}
+
+.prev {
+    margin-left: 60px;
+}
